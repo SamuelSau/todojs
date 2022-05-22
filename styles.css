@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 3px solid black;
+    border-radius:20px;
+}
+.container h1 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container input {
+    background-color: aqua;
+    opacity: 70%;
+    border: 2px solid blue;
+    border-radius: 5px;
+    width: 200px;
+}
+
